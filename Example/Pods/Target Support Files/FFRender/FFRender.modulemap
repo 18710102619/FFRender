@@ -1,0 +1,6 @@
+framework module FFRender {
+  umbrella header "FFRender-umbrella.h"
+
+  export *
+  module * { export * }
+}

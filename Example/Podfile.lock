@@ -1,0 +1,16 @@
+PODS:
+  - FFRender (0.1.0)
+
+DEPENDENCIES:
+  - FFRender (from `../`)
+
+EXTERNAL SOURCES:
+  FFRender:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFRender: d5c0167c0626bba98128e10233eb605689b19577
+
+PODFILE CHECKSUM: '03440922b227565d2e7f4b740ca4b5d0e30cbff5'
+
+COCOAPODS: 1.2.1
