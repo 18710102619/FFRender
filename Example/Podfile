@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FFRender_Example' do
+  pod 'FFRender', :path => '../'
+
+  target 'FFRender_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
